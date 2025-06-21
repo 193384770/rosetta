@@ -1,9 +1,0 @@
-*.db
-*.dat
-*.tgz
-*.pdb
-*.pse
-*.sil
-score.sc
-
-callgrind.out.*

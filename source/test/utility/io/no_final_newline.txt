@@ -1,3 +1,0 @@
-foo
-bar
-baz has no newline!
